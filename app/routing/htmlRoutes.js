@@ -21,7 +21,7 @@ module.exports = function(app) {
 
     // This gets all the friends in the array
     app.get('/api', function (req, res) {
-        var queryString = "SELECT * FROM all_friends;";
+        var queryString = "SELECT * FROM all_Friends;";
         connection.query(queryString, function(err, result) {
             if (err) {
                 throw err;

@@ -1,6 +1,6 @@
 -- CREATE DATABASE Friends;
 
-USE hh750jxv65yb85px;
+USE poil1tbjbsgeyk4w;
 
 CREATE TABLE all_Friends (
 	id INT AUTO_INCREMENT NOT NULL,
