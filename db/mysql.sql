@@ -1,6 +1,6 @@
 -- CREATE DATABASE Friends;
 
-USE mal5eh1f8szrshtz;
+USE hh750jxv65yb85px;
 
 CREATE TABLE all_Friends (
 	id INT AUTO_INCREMENT NOT NULL,
@@ -21,7 +21,7 @@ CREATE TABLE all_Friends (
 );
 
 INSERT INTO all_Friends (friend_name, friend_photo, friend_q1, friend_q2, friend_q3, friend_q4, friend_q5, friend_q6, friend_q7, friend_q8, friend_q9, friend_q10, createdAt)
-	VALUES ("Stuart", "https://images.pexels.com/photos/96938/pexels-photo-96938.jpeg?w=940&h=650&auto=compress&cs=tinysrgb", "5", "5", "3", "5", "3", "2", "3", "5", "3", "1", CURRENT_TIMESTAMP);
+	VALUES ("Stuart", "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAegAAAAJDY1YWFmYzMxLWMwNDctNDJjMi04ZTc3LTQzZDk3NTk2ZDQzYw.jpg", "5", "4", "5", "2", "4", "5", "4", "4", "1", "2", CURRENT_TIMESTAMP);
 
 -- INSERT INTO all_Friends (friend_name, friend_photo, friend_q1, friend_q2, friend_q3, friend_q4, friend_q5, friend_q6, friend_q7, friend_q8, friend_q9, friend_q10, createdAt)
 -- 	VALUES ("Jessica", "https://images.pexels.com/photos/45164/mare-animal-nature-ride-45164.jpeg?h=350&auto=compress&cs=tinysrgb", "2", "2", "4", "4", "1", "1", "1", "4", "2", "1", CURRENT_TIMESTAMP);
