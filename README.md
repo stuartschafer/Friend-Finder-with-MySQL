@@ -1,7 +1,7 @@
 # Friend-Finder-with-MySQL
 A friend finder app that matches you with other who have answered questions similarly
 
-Please visit the app (https://secret-beyond-74336.herokuapp.com/) and take the survey to be added and see who you match up with!
+Please visit the app (https://friend-finder-with-mysql.herokuapp.com/) and take the survey to be added and see who you match up with!
 
 This is best viewed on Chrome/Firefox.
 
